@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bnu:home|Door43 (bnu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bnu|d43-bnu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bnu/archive/master.zip|d43-bnu.zip]]
+
+**Recent Changes**
+{{changes>ns = bnu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bnu|Ethnologue data]]
+
